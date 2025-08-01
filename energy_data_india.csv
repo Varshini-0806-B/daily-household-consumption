@@ -1,0 +1,10 @@
+Date,Appliance,Consumption_kWh
+2025-01-01,Refrigerator,2.5
+2025-01-01,Air Conditioner,3.0
+2025-01-01,Heater,1.5
+2025-01-02,Refrigerator,2.6
+2025-01-02,Air Conditioner,3.1
+2025-01-02,Heater,1.7
+2025-01-03,Refrigerator,2.4
+2025-01-03,Air Conditioner,2.8
+2025-01-03,Heater,1.6
